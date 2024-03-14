@@ -1,4 +1,6 @@
-<img src="https://github.com/iamSamael/iamSamael/assets/104965976/d5ceec0a-c788-4234-93be-bfcb0b247700"/>
+<p align="center">
+  <img src="https://github.com/iamSamael/iamSamael/assets/104965976/d5ceec0a-c788-4234-93be-bfcb0b247700"/>
+</p>
 <h1 align="center">Hi 👋, I'm Deshan</h1>
 <h3 align="center">A passionate Full Stack developer, an undergraduate student.</h3>
 
