@@ -1,3 +1,4 @@
+<img src""C:\Users\deshan\Desktop\gif.gif"">
 <h1 align="center">Hi 👋, I'm Deshan</h1>
 <h3 align="center">A passionate Full Stack developer, an undergraduate student.</h3>
 
