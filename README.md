@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **reactJS, ThreeJS, TensorFlow**
 
-- 💬 Ask me about **java, python**
+- 💬 Ask me about **Typescript, Javascript, java**
 
 - 📫 How to reach me **lisitha.trinity@gmail.com**
 
